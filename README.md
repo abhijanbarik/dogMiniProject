@@ -1,9 +1,6 @@
-# TinDog Project
-
-HINT: To figure out which Bootstrap components/snippets are used. Refer to the PDF below:
+# TinDog Mini Project
 
 ## SVGs:
-
 Apple Logo:
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-apple mb-1" viewBox="0 0 16 16">
