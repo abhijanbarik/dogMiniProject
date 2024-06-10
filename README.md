@@ -1,4 +1,4 @@
-# TinDog Mini Project
+# TinDog Mini Project 
 
 ## SVGs:
 Apple Logo:
